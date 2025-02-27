@@ -3,8 +3,11 @@ This project focuses on the application of the YOLOv9-C algorithm for detecting 
 
 The research follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework and compares YOLOv9-C's performance against other object detection models, such as GELAN-C and Detectron2. Key performance metrics, including mAP50, mAP50-95, precision, and recall, demonstrate that YOLOv9-C excels in detecting subtle facial cues associated with alcohol consumption.
 
+![perbandingan drunk yolo](https://github.com/user-attachments/assets/39eae20b-da03-4f1f-80e7-acf00b5f959f)
+
 Key Features:
 - Model: YOLOv9-C (integrating GELAN for optimized multi-level feature extraction).
 - Use Case: Real-time facial expression analysis for early detection of intoxication.
 - Dataset: Drunk and sober face images, annotated for training and testing.
 - Performance: Superior inference speed and detection accuracy, making it suitable for time-critical applications like driver monitoring and safety systems.
+
